@@ -1,0 +1,7 @@
+D:\215 группа\23 задача\bin\Debug\23 задача.exe.config
+D:\215 группа\23 задача\bin\Debug\23 задача.exe
+D:\215 группа\23 задача\bin\Debug\23 задача.pdb
+D:\215 группа\23 задача\obj\Debug\23 задача.csproj.AssemblyReference.cache
+D:\215 группа\23 задача\obj\Debug\23 задача.csproj.CoreCompileInputs.cache
+D:\215 группа\23 задача\obj\Debug\23 задача.exe
+D:\215 группа\23 задача\obj\Debug\23 задача.pdb
