@@ -1,0 +1,7 @@
+D:\215 группа\от 10 задачи\bin\Debug\от 10 задачи.exe.config
+D:\215 группа\от 10 задачи\bin\Debug\от 10 задачи.exe
+D:\215 группа\от 10 задачи\bin\Debug\от 10 задачи.pdb
+D:\215 группа\от 10 задачи\obj\Debug\от 10 задачи.csproj.AssemblyReference.cache
+D:\215 группа\от 10 задачи\obj\Debug\от 10 задачи.csproj.CoreCompileInputs.cache
+D:\215 группа\от 10 задачи\obj\Debug\от 10 задачи.exe
+D:\215 группа\от 10 задачи\obj\Debug\от 10 задачи.pdb
