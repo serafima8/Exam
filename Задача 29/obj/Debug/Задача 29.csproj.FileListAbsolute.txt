@@ -1,0 +1,7 @@
+K:\215\сс\Задача 29\bin\Debug\Задача 29.exe.config
+K:\215\сс\Задача 29\bin\Debug\Задача 29.exe
+K:\215\сс\Задача 29\bin\Debug\Задача 29.pdb
+K:\215\сс\Задача 29\obj\Debug\Задача 29.csproj.AssemblyReference.cache
+K:\215\сс\Задача 29\obj\Debug\Задача 29.csproj.CoreCompileInputs.cache
+K:\215\сс\Задача 29\obj\Debug\Задача 29.exe
+K:\215\сс\Задача 29\obj\Debug\Задача 29.pdb
